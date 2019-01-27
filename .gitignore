@@ -1,0 +1,9 @@
+bin
+build
+dist
+include
+lib
+.python-version
+*.spec
+pip-selfcheck.json
+
